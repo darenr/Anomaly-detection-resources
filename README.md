@@ -6,6 +6,7 @@ Resources useful for Anomaly detection in python
  - [Multivariate State Estimation technique in python](https://github.com/maminian/caterpillar_mset)
  - [Isolation Forest — Auto Anomaly Detection with Python](https://towardsdatascience.com/isolation-forest-auto-anomaly-detection-with-python-e7a8559d4562)
  - [Python Library for Outlier Detection](https://github.com/yzhao062/pyod)
+ - [Deep isolation forest for anomaly detection](https://github.com/xuhongzuo/deep-iforest)
 
 Datasets
 ELKI Outlier Datasets: https://elki-project.github.io/datasets/outlier
